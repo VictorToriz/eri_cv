@@ -1,0 +1,32 @@
+p.thicker {
+    font-size: xx-large;
+    font-weight: 800;
+    font-display: swap;
+    color: var(--dark-blue);
+  
+    line-height: 100px;
+    text-align: center;
+    vertical-align: middle;
+}  
+
+p.title {
+        font-size: xx-large;
+        font-weight: 800;
+        font-display: swap;
+        color: var(--dark-blue);
+
+        line-height: 100px;
+        text-align: left;
+        vertical-align: middle;
+}     
+
+p.thicker1 {
+    font-size: larger;
+    font-weight: 800;
+    font-display: swap;
+    color: var(--dark-blue);
+    background-size: 100% auto;
+    padding: 120px;
+    margin: 5%;
+    margin:auto;
+}
